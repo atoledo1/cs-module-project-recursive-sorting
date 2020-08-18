@@ -1,6 +1,6 @@
 # Module Project - Recursive Sorting
 
-## Algorithms
+## Algorithms.
 
 ## Recursive Sorting
 
